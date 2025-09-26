@@ -41,7 +41,7 @@ st.image and stframe display annotated detection results.
 
 st.file_uploader allows user to upload and test files.
 
-#Features :
+# Features :
 Run YOLO object detection directly in your browser.
 
 Live camera detection using WebRTC.
